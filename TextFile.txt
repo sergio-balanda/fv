@@ -1,3 +1,0 @@
-﻿agregar pagina nueva
-- ir al sidebar 
-- layout.js
